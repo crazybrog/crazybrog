@@ -1,7 +1,3 @@
-hi im seb, i make a alot of things such as 
-https://seb.how
+seb thats me
 
-and i just know html at da moment.
-
-
-but im pretty awesome
+<img src="https://droopletbox.xyz/E1kOkpoVcAcG-4h.jpg">
